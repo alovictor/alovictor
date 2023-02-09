@@ -1,6 +1,6 @@
 <div align="center">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=alovictor&show_icons=true&theme=dracula"/>
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alovictor&layout=compact&theme=dracula&hide=shaderlab,hlsl"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=alovictor&show_icons=true&theme=dracula&card_width=200"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alovictor&layout=compact&theme=dracula&hide=shaderlab,hlsl&card_width=200"/>
 </div>
 
 ##
